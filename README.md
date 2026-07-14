@@ -1,6 +1,6 @@
 # Campus Auto Login - 校园网自动登录脚本
 
-针对 Dr.COM / ePortal 认证系统的校园网自动登录 PowerShell 脚本。
+针对 Dr.COM / ePortal 认证系统的校园网自动登录 PowerShell 脚本。（由Claude Code完成）
 
 ## 功能
 
