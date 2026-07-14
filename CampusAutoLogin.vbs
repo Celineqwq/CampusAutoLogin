@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "powershell.exe -NoProfile -ExecutionPolicy Bypass -File """ & CreateObject("Scripting.FileSystemObject").GetParentFolderName(WScript.ScriptFullName) & "\CampusAutoLogin.ps1"" -WindowStyle Hidden", 0, False
